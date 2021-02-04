@@ -1,0 +1,15 @@
+Ingreso a la ruta /admin?user=Ingreso a la ruta /preguntas-frecuentes
+Ingreso a la ruta /contacto
+Ingreso a la ruta /nosotros
+Ingreso a la ruta /
+Ingreso a la ruta /preguntas-frecuentes
+Ingreso a la ruta /admin
+Ingreso a la ruta /admin?user=luis
+Ingreso a la ruta /admin?user=Ada
+Ingreso a la ruta /
+Ingreso a la ruta /nosotros
+Ingreso a la ruta /contacto
+Ingreso a la ruta /preguntas-frecuentes
+Ingreso a la ruta /admin?user=Ada
+Ingreso a la ruta /admin?user=luis
+Ingreso a la ruta /admin?user=Ada
